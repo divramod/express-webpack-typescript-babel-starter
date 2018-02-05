@@ -1,7 +1,10 @@
 # Start
 
 ```
-
+git clone https://github.com/divramod/express-webpack-typescript-babel-starter.git APP_NAME
+cd APP_NAME
+npm install
+rm -rf .git
 ```
 
 # Develop
