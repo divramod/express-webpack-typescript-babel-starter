@@ -1,9 +1,15 @@
+# Start
+
+```
+
+```
+
 # Develop
 
 ```
-# terminal one
-npm run dev # for webpack
-npm run nodemon # for nodemon live reload
+npm run test # for running the tests
+npm run dev # for webpack/development
+npm run start # for starting the app
 ```
 
 # Features
